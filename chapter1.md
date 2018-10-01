@@ -174,7 +174,7 @@ Ex().success_msg("Some praise! Then reinforce a learning objective from the exer
 
 ---
 
-## Insert exercise title here
+## LEFT JOINs Exercises
 
 ```yaml
 type: VideoExercise
