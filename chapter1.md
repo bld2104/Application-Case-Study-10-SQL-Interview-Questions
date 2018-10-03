@@ -40,7 +40,7 @@ This should assist students in cutting out some of the distractors.
 - [C]
 - D
 
-`@feedbacks`
+`@feedback`
 - This is the reason why A is not the right answer.
 - This is the reason why B is not the right answer.
 - Correct! C is the right answer here because...
