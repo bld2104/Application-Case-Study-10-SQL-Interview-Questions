@@ -1,4 +1,11 @@
 title: Application Case Study 10 SQL Interview Questions
-description: A description of the course.
+description: During your interview for an analyst position at Instacart, they ask you 
+to write a query that answers the following business question, "Are items that were re-ordered added to the cart sooner
+than items that were not re-ordered?" There's almost no technical language in that question, and certainly no 
+SQL keywords! It can be tough to translate business questions into SQL queries, but we do just that in this 
+case study. We'll cover the tools necessary for confidently crafting SQL queries that solve interview-style questions. 
+This course is also excellent for anyone who wants to generally practice translating business questions into SQL queries. 
+We'll review more advanced SQL concepts like GROUP BY, JOINs, CASE statements, and learn to properly choose the correct 
+command for a given business/interview question.
 programming_language: sql
 from: 'postgresql-base-prod:v1.0.0' # 'msft-sql-base-prod:v1.1.0'
