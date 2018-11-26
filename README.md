@@ -1,4 +1,4 @@
-# **Course Title**<br/>by **Course Author**
+# **Case Study 10 SQL Interview Questions**<br/>by **Barbara Donnini**
 
 README and sample lesson deadline: YYYY-MM-DD 
 
@@ -298,7 +298,6 @@ A one-paragraph description of the course.
 
 **Prerequisites**
 
-*Which DataCamp courses cover topics that a student should be familiar with before attempting this course? Here are some examples:*
 
 - [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 - [Joining Data in PostgreSQL](https://www.datacamp.com/courses/joining-data-in-postgresql)
